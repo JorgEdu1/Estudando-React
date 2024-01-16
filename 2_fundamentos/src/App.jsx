@@ -6,12 +6,13 @@ import Descricao from './components/Descricao'
 import Cachorro from './components/Cachorro'
 import Counter from './components/Counter'
 import UserInfoForm from './components/UserInfoForm'
+import Button from './components/Button'
 
 function App() {
 
   return (
     <>
-      <UserInfoForm />
+      <Button />
     </>
   )
 }
