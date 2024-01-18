@@ -1,6 +1,6 @@
 import React from 'react'
 import { useState } from 'react'
-
+//testando o git kraken
 const Counter = () => {
     const [count, setCount] = React.useState(0)
   return (
